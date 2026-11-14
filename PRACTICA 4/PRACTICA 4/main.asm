@@ -2,7 +2,7 @@
 ; Nombre: Lugo Martinez Jennifer Scarlet
 ; Horario: 10:00-11:00 AM 
 ; Docente: Dr. José Luis Medina Jiménez
-; Practica: PRACTICA 4 
+; Practica: PRACTICA 4 - PASO DE PARAMETROS POR PILA Y MULTIPLICACION DE VALORES
 ; Descripcion: En esta practica se aprendio a enviar parametros mediante la pila
 ; acceder a ellos usando EBP y realizar una multiplicacion dentro de un procedimiento
 
