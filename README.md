@@ -9,7 +9,7 @@ Repositorio que contiene el desarrollo de las prácticas correspondientes a la *
 * **Materia:** Lenguajes de Interfaz
 * **Unidad:** Unidad 3
 * **Alumno:** Lugo Martinez Jennifer Scarlet
-* **Docente:** Doc. Medina Jimenez Jose Luis
+* **Docente:** Dr. Medina Jimenez Jose Luis
 * **Horario:** 10:00 - 11:00
 * **Institución:** Instituto Tecnológico de Culiacán
 
